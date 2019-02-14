@@ -3,7 +3,7 @@
   background-color: white;
   border-color:white;
   color: #FF2678;
-  padding: 8px 1000px 100px 100px;
+  padding: 8px 500px 100px 100px;
   float: left;
   font-size: 21px;
   font-weight: 600;
@@ -13,7 +13,7 @@
   border-radius: 10px;
   background-color: pink;
   margin: 30px;
-  padding: 10px 30px 10px 10px;
+  padding: 10px 30px;
   font-size: 24px;
   float: left;
   text-transform: uppercase;
@@ -29,16 +29,13 @@
     border: 5px solid: #7F0D00;
     -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
           animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
-}.input0{
-  
 }
-
 .text1{
   border-radius: 10px;
   background-color: pink;
   border-color:pink;
   color: #FF2678;
-  padding: 10px 500px 10px 10px;
+  padding: 10px 30px;
   float: left;
   font-size: 24px;
   font-weight: 600;
@@ -58,15 +55,15 @@
   background-color: pink;
   border-color:pink;
   color: #FF2678;
-  padding: 8px 1043px 150px 100px;
+  padding: 10px 30px;
   float: left;
-  font-size: 21px;
+  font-size: 24px;
   font-weight: 600;
   margin: 30px;
   -webkit-transition: all 0.5s ease-out;  
           transition: all 0.5s ease-out;
 }
-.text:hover{
+.text2:hover{
   background-color: #f0679e;
   color: white;
   border: 5px solid: #7F0D00;
@@ -78,7 +75,7 @@
   background-color: pink;
   border-color:pink;
   color: #FF2678;
-  padding: 8px 954px 150px 100px;;
+  padding: 10px 30px;
   float: left;
   font-size: 21px;
   font-weight: 600;
