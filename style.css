@@ -1,0 +1,155 @@
+.front{
+  border-radius: 10px;
+  background-color: white;
+  border-color:white;
+  color: #FF2678;
+  padding: 8px 1000px 100px 100px;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+}
+.text0{
+  border-radius: 10px;
+  background-color: pink;
+  margin: 30px;
+  padding: 10px 30px 10px 10px;
+  font-size: 24px;
+  float: left;
+  text-transform: uppercase;
+  font-weight: 1000;
+  margin: 30px;
+  position: relative;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text0:hover{
+    background-color: #f0679e;
+    color: white;
+    border: 5px solid: #7F0D00;
+    -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+          animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}.input0{
+  
+}
+
+.text1{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 10px 500px 10px 10px;
+  float: left;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 30px;
+   -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text1:hover{
+    background-color: #f0679e;
+    color: white;
+    border: 5px solid: #7F0D00;
+    -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+          animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+.text2{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 8px 1043px 150px 100px;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text:hover{
+  background-color: #f0679e;
+  color: white;
+  border: 5px solid: #7F0D00;
+  -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+        animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+.text3{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 8px 954px 150px 100px;;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text3:hover{
+  background-color: #f0679e;
+  color: white;
+  border: 5px solid: #7F0D00;
+  -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+        animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+.text4{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 8px 925px 150px 100px;;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text:hover{
+  background-color: #f0679e;
+  color: white;
+  border: 5px solid: #7F0D00;
+  -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+        animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+.text5{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 8px 1089px 150px 100px;;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text:hover{
+  background-color: #f0679e;
+  color: white;
+  border: 5px solid: #7F0D00;
+  -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+        animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+.text6{
+  border-radius: 10px;
+  background-color: pink;
+  border-color:pink;
+  color: #FF2678;
+  padding: 8px 1103px 150px 100px;
+  float: left;
+  font-size: 21px;
+  font-weight: 600;
+  margin: 30px;
+  -webkit-transition: all 0.5s ease-out;  
+          transition: all 0.5s ease-out;
+}
+.text6:hover{
+  background-color: #f0679e;
+  color: white;
+  border: 5px solid: #7F0D00;
+  -webkit-animation: myanim 2s; /* Chrome, Opera 15+, Safari 5+ */
+        animation: myanim 2s; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
